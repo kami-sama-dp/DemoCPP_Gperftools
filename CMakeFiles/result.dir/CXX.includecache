@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dengpu/Desktop/DemoCpp/heap_test.cpp
+iostream
+/Users/dengpu/Desktop/DemoCpp/iostream
+unistd.h
+/Users/dengpu/Desktop/DemoCpp/unistd.h
+gperftools/heap-profiler.h
+-
+
+/usr/local/include/gperftools/heap-profiler.h
+stddef.h
+-
+

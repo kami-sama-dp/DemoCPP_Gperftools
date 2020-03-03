@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/dengpu/Desktop/DemoCpp/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/result.dir/DongtaiGuihua.cpp.o -c /Users/dengpu/Desktop/DemoCpp/DongtaiGuihua.cpp",
+  "file": "/Users/dengpu/Desktop/DemoCpp/DongtaiGuihua.cpp"
+},
+{
+  "directory": "/Users/dengpu/Desktop/DemoCpp/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/result.dir/heap_test.cpp.o -c /Users/dengpu/Desktop/DemoCpp/heap_test.cpp",
+  "file": "/Users/dengpu/Desktop/DemoCpp/heap_test.cpp"
+}
+]
